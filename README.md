@@ -10,7 +10,7 @@ Currently, this framework support links and nothing else.
 
 ## Step One : (っ◔◡◔)っ ♥ Preparing The Vectors ♥
 
-You'll need SVGs of your scanned pages. I like Inkscape's bitmap trace for this purpose. Now pull your new vector graphics into your software of choice. This repo is designed around Affinity Designer, as that's what I use. The object here is to make sure anything that should function as a link is its own separate path. You'll also want to add a box underneath your links, which will function as a 'mouse buffer zone' so that clicking is intuitive for your many, many vistors. The box's fill should be set to the background color of your pages/site. Here is an example of some link text with the box beneath it: 
+You'll need to make SVGs of your scanned pages. I like Inkscape's bitmap trace for this purpose. Once in hand, pull your newly vectorized pages into your editing software of choice. This repo is designed around Affinity Designer, as that's what I use. The object here is to make sure anything that should function as a link is its own separate path. You'll also want to add a box underneath your links, which will function as a 'mouse buffer zone' so that clicking is intuitive for your many, many vistors. The box's fill should be set to the background color of your pages/site. Here is an example of some link text with the box beneath it: 
 
 <img width="432" alt="Captura de Pantalla 2025-06-22 a la(s) 8 14 06 p m" src="https://github.com/user-attachments/assets/ad30e79b-f61d-45f6-934b-196392718e38" />
 
